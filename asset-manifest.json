@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mikdadayan/monsters-rol.git/static/css/main.0a6ac3ff.chunk.css",
+    "main.js": "/mikdadayan/monsters-rol.git/static/js/main.2ca230c8.chunk.js",
+    "main.js.map": "/mikdadayan/monsters-rol.git/static/js/main.2ca230c8.chunk.js.map",
+    "runtime-main.js": "/mikdadayan/monsters-rol.git/static/js/runtime-main.eb5a3053.js",
+    "runtime-main.js.map": "/mikdadayan/monsters-rol.git/static/js/runtime-main.eb5a3053.js.map",
+    "static/js/2.985b3e87.chunk.js": "/mikdadayan/monsters-rol.git/static/js/2.985b3e87.chunk.js",
+    "static/js/2.985b3e87.chunk.js.map": "/mikdadayan/monsters-rol.git/static/js/2.985b3e87.chunk.js.map",
+    "index.html": "/mikdadayan/monsters-rol.git/index.html",
+    "precache-manifest.11f0fef58e56c360fd55e0b9b517734a.js": "/mikdadayan/monsters-rol.git/precache-manifest.11f0fef58e56c360fd55e0b9b517734a.js",
+    "service-worker.js": "/mikdadayan/monsters-rol.git/service-worker.js",
+    "static/css/main.0a6ac3ff.chunk.css.map": "/mikdadayan/monsters-rol.git/static/css/main.0a6ac3ff.chunk.css.map",
+    "static/js/2.985b3e87.chunk.js.LICENSE.txt": "/mikdadayan/monsters-rol.git/static/js/2.985b3e87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb5a3053.js",
+    "static/js/2.985b3e87.chunk.js",
+    "static/css/main.0a6ac3ff.chunk.css",
+    "static/js/main.2ca230c8.chunk.js"
+  ]
+}
