@@ -14,7 +14,6 @@ class App extends Component{
   }
 
   handleChange = (e)=>{
-    // console.log(this)
     this.setState({searchField: e.target.value})
   }
 
